@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\advance-ajax-php-product-search-filter\\js1"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\advance-ajax-php-product-search-filter\\css1"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\advance-ajax-php-product-search-filter\\fonts"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\advance-ajax-php-product-search-filter\\image"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MOBILESHOPEE"
+	}
+}
